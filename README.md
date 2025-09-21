@@ -1,4 +1,4 @@
-# Power-Bi
+# Power-Bi | Blinkit Power BI Sales Dashboard
 # Blinkit Power BI Sales Dashboard
 
 This repository contains a **Power BI dashboard** created for Blinkit to visualize and analyze key performance metrics across retail outlets.  
